@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moneybox Revised", "Moneybox Revised.csproj", "{536BE9B7-706A-4290-BCC1-D4786677D046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moneybox Unit Tests", "..\Moneybox Unit Tests\Moneybox Unit Tests.csproj", "{F01E71DC-7461-4930-B2A6-C8C8C27FB326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{536BE9B7-706A-4290-BCC1-D4786677D046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536BE9B7-706A-4290-BCC1-D4786677D046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536BE9B7-706A-4290-BCC1-D4786677D046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536BE9B7-706A-4290-BCC1-D4786677D046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01E71DC-7461-4930-B2A6-C8C8C27FB326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01E71DC-7461-4930-B2A6-C8C8C27FB326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01E71DC-7461-4930-B2A6-C8C8C27FB326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01E71DC-7461-4930-B2A6-C8C8C27FB326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C44C72EC-15CA-4B69-BAD0-8D46EF2F20D6}
+	EndGlobalSection
+EndGlobal
